@@ -38,8 +38,8 @@
   <!--Flask-->
   <img src="https://img.shields.io/badge/springboot-000000?style=flat-square&logo=springboot&logoColor=white"/>
   <!--Django-->
-  <img src="https://img.shields.io/badge/VisualStudioCode-092E20?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudio-092E20?style=flat-square&logo=VisualStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  
   <!--React-->
   <img src="https://img.shields.io/badge/github-61DAFB?style=flat-square&logo=github&logoColor=white&Color=white"/>
   <br/>
