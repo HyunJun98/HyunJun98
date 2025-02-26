@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 :octocat:
 :mortar_board:
 
-// 자바스크립트 배지 코드 예시
+<!-- 자바스크립트 배지 코드 예시 -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
