@@ -10,8 +10,8 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :fire: I aim to become a Backend Developer..<br/>
+  #### :mortar_board: Bachelor of International Trade, Liaoning Normal University(SKKU)
   <br/>
   <br/>
   
@@ -38,9 +38,9 @@
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-092E20?style=flat-square&logo=vscode&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/javascript-61DAFB?style=flat-square&logo=javascript&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
