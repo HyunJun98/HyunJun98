@@ -38,7 +38,7 @@
   <!--Flask-->
   <img src="https://img.shields.io/badge/springboot-000000?style=flat-square&logo=springboot&logoColor=white"/>
   <!--Django-->
-  <img src="https://img.shields.io/badge/vscode-092E20?style=flat-square&logo=vscode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudiocode-092E20?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/github-61DAFB?style=flat-square&logo=github&logoColor=white&Color=white"/>
   <br/>
