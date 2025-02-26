@@ -18,7 +18,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-3776AB?style=flat-square&logo=java&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -40,7 +40,7 @@
   <!--Django-->
   <img src="https://img.shields.io/badge/vscode-092E20?style=flat-square&logo=vscode&logoColor=white"/>
   <!--React-->
-  <img src="https://img.shields.io/badge/javascript-61DAFB?style=flat-square&logo=javascript&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/github-61DAFB?style=flat-square&logo=github&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
