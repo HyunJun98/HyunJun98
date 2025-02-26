@@ -29,14 +29,14 @@
   
   ### Library
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lombok-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  
   <br/>
   
   ### Framework
   <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-000000?style=flat-square&logo=springboot&logoColor=white"/>
   <!--Django-->
   <img src="https://img.shields.io/badge/vscode-092E20?style=flat-square&logo=vscode&logoColor=white"/>
   <!--React-->
